@@ -12,7 +12,7 @@ int main()
         printf("%f",h);
     }
     else
-        printf("not a valid triangle");
+        printf("it is not a valid triangle");
     return 0;
     
 
