@@ -75,7 +75,7 @@ int main(){
         temp/=10;
 
         }if (rev == i)
-   { printf("%d\n",i);}
+   { printf("%d armstron\n",i);}
     }
     
     
